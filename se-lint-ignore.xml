@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="crucified.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
-		<ignore>
-			<code>y-019</code>
+		<ignore code="y-019">
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 	</file>
