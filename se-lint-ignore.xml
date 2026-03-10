@@ -2,12 +2,15 @@
 <se-lint-ignore>
 	<file path="crucified.xhtml">
 		<ignore code="t-003">
+			<line>21</line>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore code="t-051">
+			<line>21</line>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore code="y-019">
+			<line>22</line>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 	</file>
